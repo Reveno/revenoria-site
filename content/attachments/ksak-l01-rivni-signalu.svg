@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1090 400" width="1090" height="400">
+<rect width="1090" height="400" fill="#ffffff"/>
+<text x="545.0" y="38" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Рівні напруги у 5-вольтовій логіці</text>
+<rect x="170" y="288.4" width="350" height="41.60000000000002" fill="#cfe8cf" stroke="#2f6b2f" stroke-width="1.5"/>
+<text x="345.0" y="315.2" text-anchor="middle" font-size="17" font-weight="bold" fill="#2f6b2f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Логічний 0</text>
+<rect x="170" y="226.0" width="350" height="62.39999999999998" fill="#f2d0d0" stroke="#96302f" stroke-width="1.5"/>
+<text x="345.0" y="263.2" text-anchor="middle" font-size="17" font-weight="bold" fill="#96302f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Заборонена зона</text>
+<rect x="170" y="70.0" width="350" height="156.0" fill="#cddcf0" stroke="#204a80" stroke-width="1.5"/>
+<text x="345.0" y="154.0" text-anchor="middle" font-size="17" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Логічна 1</text>
+<line x1="170" y1="70" x2="170" y2="330" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="162" y1="330.0" x2="170" y2="330.0" stroke="#1a1a1a" stroke-width="2"/>
+<text x="156" y="335.0" text-anchor="end" font-size="14" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">0 В</text>
+<line x1="162" y1="288.4" x2="170" y2="288.4" stroke="#1a1a1a" stroke-width="2"/>
+<text x="156" y="293.4" text-anchor="end" font-size="14" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">0,8 В</text>
+<line x1="162" y1="226.0" x2="170" y2="226.0" stroke="#1a1a1a" stroke-width="2"/>
+<text x="156" y="231.0" text-anchor="end" font-size="14" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">2,0 В</text>
+<line x1="162" y1="70.0" x2="170" y2="70.0" stroke="#1a1a1a" stroke-width="2"/>
+<text x="156" y="75.0" text-anchor="end" font-size="14" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">5 В</text>
+<line x1="520" y1="309.2" x2="542" y2="309.2" stroke="#2f6b2f" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="548" y="314.2" font-size="13" fill="#2f6b2f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">шум до 0,8 В не заважає — це все ще нуль</text>
+<line x1="520" y1="257.2" x2="542" y2="257.2" stroke="#96302f" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="548" y="262.2" font-size="13" fill="#96302f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">сигнал не має тут затримуватися</text>
+<line x1="520" y1="148.0" x2="542" y2="148.0" stroke="#204a80" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="548" y="153.0" font-size="13" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">шум у межах 3 В не заважає — це все ще одиниця</text>
+<text x="545.0" y="382" text-anchor="middle" font-size="13" fill="#555" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Логічний рівень — це діапазон напруг, а не одне значення. Саме тому цифрова схема стійка до шуму.</text>
+</svg>
