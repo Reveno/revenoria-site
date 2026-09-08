@@ -20,6 +20,10 @@ draft: false
 - [[courses/operating-systems/lectures/08-failovi-systemy|Лекція 8. Файлові системи]]
 - [[courses/operating-systems/lectures/09-vvedennia-vyvedennia-ta-draivery|Лекція 9. Введення-виведення та драйвери]]
 
+## Завдання на парі
+
+- [[courses/operating-systems/classwork/01-protsesy-potoky-ta-priorytety-u-windows|Завдання на парі 1. Процеси, потоки та пріоритети у Windows]]
+
 ## Лабораторні роботи
 
 - [[courses/operating-systems/labs/01-vstanovlennia-operatsiinoi-systemy-na|Лабораторна робота 1. Встановлення операційної системи на віртуальну машину]]
