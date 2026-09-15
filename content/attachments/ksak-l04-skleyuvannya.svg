@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+<rect width="900" height="600" fill="#ffffff"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#1a1a1a"/></marker></defs>
+<text x="450.0" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Чому сусідні клітинки склеюються</text>
+<text x="236" y="100" text-anchor="end" font-size="13" font-weight="normal" fill="#555555" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">AB\CD</text>
+<text x="293.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">00</text>
+<text x="379.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">01</text>
+<text x="465.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">11</text>
+<text x="551.0" y="100" text-anchor="middle" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">10</text>
+<text x="236" y="159.0" text-anchor="end" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">00</text>
+<rect x="250" y="110" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="293.0" y="159.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀB̄C̄D̄</text>
+<rect x="336" y="110" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="379.0" y="159.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀB̄C̄D</text>
+<rect x="422" y="110" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="465.0" y="159.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀB̄CD</text>
+<rect x="508" y="110" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="551.0" y="159.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀB̄CD̄</text>
+<text x="236" y="245.0" text-anchor="end" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">01</text>
+<rect x="250" y="196" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="293.0" y="245.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀBC̄D̄</text>
+<rect x="336" y="196" width="86" height="86" fill="#fdf3d6" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="379.0" y="245.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#96302f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀBC̄D</text>
+<rect x="422" y="196" width="86" height="86" fill="#fdf3d6" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="465.0" y="245.0" text-anchor="middle" font-size="15" font-weight="bold" fill="#96302f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀBCD</text>
+<rect x="508" y="196" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="551.0" y="245.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀBCD̄</text>
+<text x="236" y="331.0" text-anchor="end" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">11</text>
+<rect x="250" y="282" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="293.0" y="331.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ABC̄D̄</text>
+<rect x="336" y="282" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="379.0" y="331.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ABC̄D</text>
+<rect x="422" y="282" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="465.0" y="331.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ABCD</text>
+<rect x="508" y="282" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="551.0" y="331.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ABCD̄</text>
+<text x="236" y="417.0" text-anchor="end" font-size="15" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">10</text>
+<rect x="250" y="368" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="293.0" y="417.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">AB̄C̄D̄</text>
+<rect x="336" y="368" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="379.0" y="417.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">AB̄C̄D</text>
+<rect x="422" y="368" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="465.0" y="417.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">AB̄CD</text>
+<rect x="508" y="368" width="86" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5" rx="0"/>
+<text x="551.0" y="417.0" text-anchor="middle" font-size="15" font-weight="normal" fill="#999999" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">AB̄CD̄</text>
+<rect x="341" y="201" width="162" height="76" fill="none" stroke="#96302f" stroke-width="3.5" rx="10"/>
+<text x="422" y="502" text-anchor="middle" font-size="21" font-weight="bold" fill="#96302f" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">ĀBC̄D + ĀBCD = ĀBD</text>
+<text x="422" y="532" text-anchor="middle" font-size="15" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">змінна C входить і прямо, і з запереченням – отже, ні на що не впливає</text>
+</svg>

@@ -95,7 +95,7 @@ NAND та NOR Flash;
 
 ## Далі
 
-→ [[courses/computer-architecture/lectures/19-keshpamiat-ta-virtualna-pamiat|Лекція 19. Кешпам'ять та віртуальна пам'ять]]
+→ [[courses/computer-architecture/lectures/19-kesh-pamiat-ta-virtualna-pamiat|Лекція 19. Кеш-пам'ять та віртуальна пам'ять]]
 
 ## Література
 

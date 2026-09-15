@@ -28,7 +28,7 @@ draft: false
 - [[courses/computer-architecture/lectures/16-enerhozberezhennia-ta-optymizatsiia|Лекція 16. Енергозбереження та оптимізація апаратних систем]]
 - [[courses/computer-architecture/lectures/17-perspektyvy-rozvytku-kompiuternykh-arkhitektur|Лекція 17. Перспективи розвитку комп'ютерних архітектур]]
 - [[courses/computer-architecture/lectures/18-iierarkhiia-pamiati-ta-osnovni-typy-ram-rom|Лекція 18. Ієрархія пам'яті та основні типи (RAM, ROM, Flash)]]
-- [[courses/computer-architecture/lectures/19-keshpamiat-ta-virtualna-pamiat|Лекція 19. Кешпам'ять та віртуальна пам'ять]]
+- [[courses/computer-architecture/lectures/19-kesh-pamiat-ta-virtualna-pamiat|Лекція 19. Кеш-пам'ять та віртуальна пам'ять]]
 - [[courses/computer-architecture/lectures/20-zovnishni-prystroi-zberihannia-danykh-hdd-ssd|Лекція 20. Зовнішні пристрої зберігання даних (HDD, SSD, оптичні диски)]]
 - [[courses/computer-architecture/lectures/21-orhanizatsiia-dostupu-do-pamiati-ta|Лекція 21. Організація доступу до пам'яті та управління пам'яттю]]
 - [[courses/computer-architecture/lectures/22-systemna-shyna-struktura-ta-funktsii|Лекція 22. Системна шина, структура та функції]]
