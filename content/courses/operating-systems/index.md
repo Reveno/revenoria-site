@@ -19,6 +19,9 @@ draft: false
 - [[courses/operating-systems/lectures/07-virtualna-pamiat|Лекція 7. Віртуальна пам'ять]]
 - [[courses/operating-systems/lectures/08-failovi-systemy|Лекція 8. Файлові системи]]
 - [[courses/operating-systems/lectures/09-vvedennia-vyvedennia-ta-draivery|Лекція 9. Введення-виведення та драйвери]]
+- [[courses/operating-systems/lectures/10-bezpeka-ta-keruvannia-dostupom|Лекція 10. Безпека та керування доступом]]
+- [[courses/operating-systems/lectures/11-virtualizatsiia-ta-konteinery|Лекція 11. Віртуалізація та контейнери]]
+- [[courses/operating-systems/lectures/12-suchasni-operatsiini-systemy|Лекція 12. Сучасні операційні системи]]
 
 ## Завдання на парі
 

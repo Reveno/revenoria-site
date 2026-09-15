@@ -357,7 +357,7 @@ data = data_register;      // забираємо
 
 ## Далі
 
-→ [[courses/operating-systems|Операційні системи]]
+→ [[courses/operating-systems/lectures/10-bezpeka-ta-keruvannia-dostupom|Лекція 10. Безпека та керування доступом]]
 
 ## Література
 
