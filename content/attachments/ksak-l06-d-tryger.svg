@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 480" width="1100" height="480">
+<rect width="1100" height="480" fill="#ffffff"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#1a1a1a"/></marker></defs>
+<text x="550.0" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">D-тригер: запам'ятовування за фронтом тактового сигналу</text>
+<text x="60" y="126" text-anchor="end" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">D</text>
+<line x1="66" y1="120" x2="130" y2="120" stroke="#1a1a1a" stroke-width="2"/>
+<text x="60" y="196" text-anchor="end" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">C</text>
+<polygon points="66,170 66,210 130,190" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="130" y="90" width="90" height="140" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="175.0" y="168.0" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">D</text>
+<line x1="220" y1="120" x2="280" y2="120" stroke="#1a1a1a" stroke-width="2"/>
+<text x="292" y="127" text-anchor="start" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Q</text>
+<line x1="220" y1="190" x2="280" y2="190" stroke="#1a1a1a" stroke-width="2"/>
+<text x="292" y="197" text-anchor="start" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Q̄</text>
+<text x="362" y="116" text-anchor="end" font-size="16" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">D</text>
+<line x1="380" y1="80" x2="380" y2="110" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="380" y1="80" x2="470" y2="80" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="470" y1="110" x2="560" y2="110" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="560" y1="80" x2="650" y2="80" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="650" y1="80" x2="740" y2="80" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="740" y1="110" x2="830" y2="110" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="830" y1="110" x2="920" y2="110" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="920" y1="80" x2="1010" y2="80" stroke="#1a1a1a" stroke-width="2.5"/>
+<text x="362" y="186" text-anchor="end" font-size="16" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">C</text>
+<line x1="380" y1="180" x2="380" y2="180" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="380" y1="180" x2="470" y2="180" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="470" y1="150" x2="560" y2="150" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="560" y1="180" x2="650" y2="180" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="650" y1="150" x2="740" y2="150" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="740" y1="180" x2="830" y2="180" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="830" y1="150" x2="920" y2="150" stroke="#1a1a1a" stroke-width="2.5"/>
+<line x1="920" y1="180" x2="1010" y2="180" stroke="#1a1a1a" stroke-width="2.5"/>
+<text x="362" y="256" text-anchor="end" font-size="16" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Q</text>
+<line x1="380" y1="250" x2="380" y2="250" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="380" y1="250" x2="470" y2="250" stroke="#204a80" stroke-width="2.5"/>
+<line x1="470" y1="250" x2="560" y2="250" stroke="#204a80" stroke-width="2.5"/>
+<line x1="560" y1="220" x2="650" y2="220" stroke="#204a80" stroke-width="2.5"/>
+<line x1="650" y1="220" x2="740" y2="220" stroke="#204a80" stroke-width="2.5"/>
+<line x1="740" y1="220" x2="830" y2="220" stroke="#204a80" stroke-width="2.5"/>
+<line x1="830" y1="250" x2="920" y2="250" stroke="#204a80" stroke-width="2.5"/>
+<line x1="920" y1="250" x2="1010" y2="250" stroke="#204a80" stroke-width="2.5"/>
+<line x1="470" y1="80" x2="470" y2="290" stroke="#cccccc" stroke-width="1" stroke-dasharray="4,4"/>
+<line x1="650" y1="80" x2="650" y2="290" stroke="#cccccc" stroke-width="1" stroke-dasharray="4,4"/>
+<line x1="830" y1="80" x2="830" y2="290" stroke="#cccccc" stroke-width="1" stroke-dasharray="4,4"/>
+<text x="695.0" y="320" text-anchor="middle" font-size="15" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Q приймає значення D саме в момент переднього фронту C</text>
+</svg>

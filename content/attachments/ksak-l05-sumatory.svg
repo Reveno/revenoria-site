@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 480" width="1180" height="480">
+<rect width="1180" height="480" fill="#ffffff"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#1a1a1a"/></marker></defs>
+<text x="590.0" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Від півсуматора до повного суматора</text>
+<text x="220" y="78" text-anchor="middle" font-size="18" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">1. Півсуматор</text>
+<text x="60" y="138" text-anchor="end" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<line x1="64" y1="132" x2="140" y2="132" stroke="#1a1a1a" stroke-width="2"/>
+<text x="60" y="194" text-anchor="end" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B</text>
+<line x1="64" y1="188" x2="128" y2="188" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="140" y1="132" x2="140" y2="228" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="140" y1="228" x2="180" y2="228" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="128" y1="188" x2="128" y2="250" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="128" y1="250" x2="180" y2="250" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="180" y="206" width="60" height="60" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="210.0" y="244.0" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">=1</text>
+<line x1="240" y1="236" x2="300" y2="236" stroke="#1a1a1a" stroke-width="2"/>
+<text x="312" y="243" text-anchor="start" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">S</text>
+<line x1="120" y1="132" x2="120" y2="335" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="120" y1="335" x2="180" y2="335" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="108" y1="188" x2="88" y2="188" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="88" y1="188" x2="88" y2="360" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="88" y1="360" x2="180" y2="360" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="180" y="330" width="60" height="60" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="210.0" y="368.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">&amp;</text>
+<line x1="240" y1="360" x2="300" y2="360" stroke="#1a1a1a" stroke-width="2"/>
+<text x="312" y="367" text-anchor="start" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">C</text>
+<text x="90" y="430" text-anchor="middle" font-size="17" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">S = A ⊕ B</text>
+<text x="90" y="455" text-anchor="middle" font-size="17" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">C = A · B</text>
+<text x="760" y="78" text-anchor="middle" font-size="18" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">2. Повний суматор (з двох півсуматорів)</text>
+<text x="450" y="146" text-anchor="end" font-size="17" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<line x1="454" y1="140" x2="480" y2="140" stroke="#1a1a1a" stroke-width="2"/>
+<text x="450" y="196" text-anchor="end" font-size="17" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B</text>
+<line x1="454" y1="190" x2="480" y2="190" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="480" y="120" width="90" height="100" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="525.0" y="178.0" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">HA1</text>
+<line x1="570" y1="150" x2="620" y2="150" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="570" y1="195" x2="610" y2="195" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="610" y1="195" x2="610" y2="450" stroke="#1a1a1a" stroke-width="2"/>
+<text x="450" y="321" text-anchor="end" font-size="17" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Cin</text>
+<line x1="454" y1="315" x2="620" y2="315" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="620" y="135" width="90" height="100" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="665.0" y="193.0" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">HA2</text>
+<line x1="710" y1="165" x2="780" y2="165" stroke="#1a1a1a" stroke-width="2"/>
+<text x="792" y="172" text-anchor="start" font-size="19" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">S</text>
+<line x1="710" y1="210" x2="740" y2="210" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="740" y1="210" x2="740" y2="420" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="610" y1="450" x2="740" y2="450" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="740" y="420" width="60" height="60" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="770.0" y="458.0" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">≥1</text>
+<line x1="800" y1="450" x2="860" y2="450" stroke="#1a1a1a" stroke-width="2"/>
+<text x="872" y="457" text-anchor="start" font-size="17" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Cout</text>
+<text x="480" y="520" text-anchor="middle" font-size="17" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">S = (A ⊕ B) ⊕ Cin</text>
+<text x="480" y="545" text-anchor="middle" font-size="17" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Cout = A·B + (A⊕B)·Cin</text>
+</svg>
