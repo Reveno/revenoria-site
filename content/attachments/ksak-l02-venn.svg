@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 360" width="1160" height="360">
+<rect width="1160" height="360" fill="#ffffff"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#1a1a1a"/></marker></defs>
+<text x="580.0" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Логічні операції як дії над множинами</text>
+<rect x="25" y="70" width="258" height="190" fill="#eef2f7" stroke="#204a80" stroke-width="2" rx="0"/>
+<text x="269" y="94" text-anchor="end" font-size="16" font-weight="normal" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">U</text>
+<rect x="27" y="72" width="254" height="186" fill="#f4c542" stroke="none" stroke-width="0" rx="0"/>
+<text x="269" y="94" text-anchor="end" font-size="16" font-weight="normal" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">U</text>
+<circle cx="154.0" cy="165" r="62" fill="#ffffff" stroke="#204a80" stroke-width="2"/>
+<text x="154.0" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<text x="154.0" y="294" text-anchor="middle" font-size="17" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Заперечення NOT</text>
+<text x="154.0" y="318" text-anchor="middle" font-size="15" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Ā — усе, що поза A</text>
+<rect x="308" y="70" width="258" height="190" fill="#eef2f7" stroke="#204a80" stroke-width="2" rx="0"/>
+<text x="552" y="94" text-anchor="end" font-size="16" font-weight="normal" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">U</text>
+<clipPath id="cA1"><circle cx="404" cy="165" r="62"/></clipPath>
+<circle cx="404" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="470" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/>
+<g clip-path="url(#cA1)"><circle cx="470" cy="165" r="62" fill="#f4c542" stroke="none" stroke-width="0"/></g>
+<circle cx="404" cy="165" r="62" fill="none" stroke="#204a80" stroke-width="2"/>
+<circle cx="470" cy="165" r="62" fill="none" stroke="#204a80" stroke-width="2"/>
+<text x="376" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<text x="498" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B</text>
+<text x="437.0" y="294" text-anchor="middle" font-size="17" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Кон'юнкція AND</text>
+<text x="437.0" y="318" text-anchor="middle" font-size="15" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A · B — спільна частина</text>
+<rect x="591" y="70" width="258" height="190" fill="#eef2f7" stroke="#204a80" stroke-width="2" rx="0"/>
+<text x="835" y="94" text-anchor="end" font-size="16" font-weight="normal" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">U</text>
+<clipPath id="cA2"><circle cx="687" cy="165" r="62"/></clipPath>
+<circle cx="687" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="753" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="687" cy="165" r="62" fill="#f4c542" stroke="none" stroke-width="0"/>
+<circle cx="753" cy="165" r="62" fill="#f4c542" stroke="none" stroke-width="0"/>
+<circle cx="687" cy="165" r="62" fill="none" stroke="#204a80" stroke-width="2"/>
+<circle cx="753" cy="165" r="62" fill="none" stroke="#204a80" stroke-width="2"/>
+<text x="659" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<text x="781" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B</text>
+<text x="720.0" y="294" text-anchor="middle" font-size="17" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Диз'юнкція OR</text>
+<text x="720.0" y="318" text-anchor="middle" font-size="15" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A + B — обидва кола</text>
+<rect x="874" y="70" width="258" height="190" fill="#eef2f7" stroke="#204a80" stroke-width="2" rx="0"/>
+<text x="1118" y="94" text-anchor="end" font-size="16" font-weight="normal" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">U</text>
+<clipPath id="cA3"><circle cx="970" cy="165" r="62"/></clipPath>
+<circle cx="970" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="1036" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/>
+<circle cx="970" cy="165" r="62" fill="#f4c542" stroke="none" stroke-width="0"/>
+<circle cx="1036" cy="165" r="62" fill="#f4c542" stroke="none" stroke-width="0"/>
+<g clip-path="url(#cA3)"><circle cx="1036" cy="165" r="62" fill="#ffffff" stroke="none" stroke-width="0"/></g>
+<circle cx="970" cy="165" r="62" fill="none" stroke="#204a80" stroke-width="2"/>
+<circle cx="1036" cy="165" r="62" fill="none" stroke="#204a80" stroke-width="2"/>
+<text x="942" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<text x="1064" y="172" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B</text>
+<text x="1003.0" y="294" text-anchor="middle" font-size="17" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Виключне АБО XOR</text>
+<text x="1003.0" y="318" text-anchor="middle" font-size="15" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A ⊕ B — лише різне</text>
+</svg>

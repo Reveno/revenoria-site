@@ -11,6 +11,7 @@ draft: false
 ## Лекції
 
 - [[courses/computer-architecture/lectures/01-vstup-do-kompiuternoi-skhemotekhniky-ta-ii|Лекція 1. Вступ до комп'ютерної схемотехніки та її роль в ІТ]]
+- [[courses/computer-architecture/lectures/02-alhebra-lohiky-bazovi-zakony-ta-operatsii|Лекція 2. Алгебра логіки, базові закони та операції]]
 
 ## Завдання
 

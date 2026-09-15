@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" width="980" height="560">
+<rect width="980" height="560" fill="#ffffff"/>
+<defs><marker id="ar" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#1a1a1a"/></marker></defs>
+<text x="490.0" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Схема голосування «щонайменше двоє з трьох»</text>
+<text x="490.0" y="62" text-anchor="middle" font-size="20" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">F = A·B + A·C + B·C</text>
+<text x="28" y="116" text-anchor="start" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A</text>
+<line x1="48" y1="110" x2="210" y2="110" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="210" y1="110" x2="210" y2="270" stroke="#1a1a1a" stroke-width="2"/>
+<text x="28" y="146" text-anchor="start" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B</text>
+<line x1="48" y1="140" x2="180" y2="140" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="180" y1="140" x2="180" y2="410" stroke="#1a1a1a" stroke-width="2"/>
+<text x="28" y="176" text-anchor="start" font-size="20" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">C</text>
+<line x1="48" y1="170" x2="150" y2="170" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="150" y1="170" x2="150" y2="480" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="320" y="110" width="70" height="110" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="355.0" y="174.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">&amp;</text>
+<line x1="210" y1="130" x2="320" y2="130" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="210" cy="130" r="5" fill="#1a1a1a"/>
+<line x1="180" y1="200" x2="320" y2="200" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="180" cy="200" r="5" fill="#1a1a1a"/>
+<text x="355" y="100" text-anchor="middle" font-size="16" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A·B</text>
+<rect x="320" y="250" width="70" height="110" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="355.0" y="314.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">&amp;</text>
+<line x1="210" y1="270" x2="320" y2="270" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="210" cy="270" r="5" fill="#1a1a1a"/>
+<line x1="150" y1="340" x2="320" y2="340" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="150" cy="340" r="5" fill="#1a1a1a"/>
+<text x="355" y="240" text-anchor="middle" font-size="16" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">A·C</text>
+<rect x="320" y="390" width="70" height="110" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="355.0" y="454.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">&amp;</text>
+<line x1="180" y1="410" x2="320" y2="410" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="180" cy="410" r="5" fill="#1a1a1a"/>
+<line x1="150" y1="480" x2="320" y2="480" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="150" cy="480" r="5" fill="#1a1a1a"/>
+<text x="355" y="380" text-anchor="middle" font-size="16" font-weight="normal" fill="#444444" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">B·C</text>
+<rect x="470" y="220" width="80" height="200" fill="#f7f9fc" stroke="#1a1a1a" stroke-width="2.5" rx="0"/>
+<text x="510.0" y="329.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">≥1</text>
+<line x1="390" y1="165" x2="430" y2="165" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="430" y1="165" x2="430" y2="260" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="430" y1="260" x2="470" y2="260" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="390" y1="305" x2="470" y2="305" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="390" y1="445" x2="430" y2="445" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="430" y1="445" x2="430" y2="355" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="430" y1="355" x2="470" y2="355" stroke="#1a1a1a" stroke-width="2"/>
+<line x1="550" y1="320" x2="640" y2="320" stroke="#1a1a1a" stroke-width="2"/>
+<text x="652" y="328" text-anchor="start" font-size="22" font-weight="bold" fill="#1a1a1a" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">F</text>
+<rect x="690" y="190" width="260" height="240" fill="#f7f9fc" stroke="#204a80" stroke-width="2" rx="8"/>
+<text x="820" y="226" text-anchor="middle" font-size="17" font-weight="bold" fill="#204a80" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Як читати схему</text>
+<text x="820" y="260" text-anchor="middle" font-size="16" font-weight="normal" fill="#333333" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Кожен елемент &amp; стежить</text>
+<text x="820" y="287" text-anchor="middle" font-size="16" font-weight="normal" fill="#333333" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">за своєю парою голосів.</text>
+<text x="820" y="314" text-anchor="middle" font-size="16" font-weight="normal" fill="#333333" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">Щойно будь-яка пара дала</text>
+<text x="820" y="341" text-anchor="middle" font-size="16" font-weight="normal" fill="#333333" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">дві одиниці — цей вихід</text>
+<text x="820" y="368" text-anchor="middle" font-size="16" font-weight="normal" fill="#333333" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">стає одиницею,</text>
+<text x="820" y="395" text-anchor="middle" font-size="16" font-weight="normal" fill="#333333" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">і ≥1 вмикає F.</text>
+</svg>

@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 > [!info] Роздатковий матеріал
-> Друкована версія цих завдань — [[attachments/ksak-zavdannya-vstupni-lekcii.pdf|PDF з місцем для записів]]. Завдання призначені, щоб розбавляти дві вступні пари: 25 завдань у п'яти незалежних блоках, кожен блок — 10–12 хвилин. Джерело матеріалу — [[courses/computer-architecture/lectures/01-vstup-do-kompiuternoi-skhemotekhniky-ta-ii|Лекція 1. Вступ до комп'ютерної схемотехніки та її роль в ІТ]]. Наступна тема — Лекція 2 - Алгебра логіки, базові закони та операції.
+> Друкована версія цих завдань — [[attachments/ksak-zavdannya-vstupni-lekcii.pdf|PDF з місцем для записів]]. Завдання призначені, щоб розбавляти дві вступні пари: 25 завдань у п'яти незалежних блоках, кожен блок — 10–12 хвилин. Джерело матеріалу — [[courses/computer-architecture/lectures/01-vstup-do-kompiuternoi-skhemotekhniky-ta-ii|Лекція 1. Вступ до комп'ютерної схемотехніки та її роль в ІТ]]. Наступна тема — [[courses/computer-architecture/lectures/02-alhebra-lohiky-bazovi-zakony-ta-operatsii|Лекція 2. Алгебра логіки, базові закони та операції]].
 
 # Завдання на папері до вступних лекцій
 
