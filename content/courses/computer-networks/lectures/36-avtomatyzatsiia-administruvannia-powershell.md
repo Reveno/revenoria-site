@@ -12,7 +12,7 @@ draft: false
 > Матеріал ще готується — тут з'явиться повний текст.
 
 > [!abstract]
-> Інструменти автоматизації рутинних адміністративних завдань — PowerShell, Ansible та скрипти Python.
+> Інструменти автоматизації рутинних адміністративних завдань – PowerShell, Ansible та скрипти Python.
 
 ## Назад
 ← [[courses/computer-networks/lectures/35-khmarni-katalohy-ta-hibrydna-identychnist|Лекція 35. Хмарні каталоги та гібридна ідентичність]]

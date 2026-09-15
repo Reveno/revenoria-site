@@ -12,7 +12,7 @@ draft: false
 > Матеріал ще готується — тут з'явиться повний текст.
 
 > [!abstract]
-> Домени, дерева, ліси та сайти Active Directory — логічна й фізична структура каталогу підприємства.
+> Домени, дерева, ліси та сайти Active Directory – логічна й фізична структура каталогу підприємства.
 
 ## Назад
 ← [[courses/computer-networks/lectures/30-sluzhba-katalohiv-active-directory-ta-ldap|Лекція 30. Служба каталогів Active Directory та LDAP]]
