@@ -31,3 +31,4 @@ draft: false
 
 - [[courses/operating-systems/labs/01-vstanovlennia-operatsiinoi-systemy-na|Лабораторна робота 1. Встановлення операційної системи на віртуальну машину]]
 - [[courses/operating-systems/labs/02-protsesy-i-potoky-v-linux|Лабораторна робота 2. Процеси й потоки в Linux]]
+- [[courses/operating-systems/labs/03-synkhronizatsiia-potokiv-u-linux|Лабораторна робота 3. Синхронізація потоків у Linux]]

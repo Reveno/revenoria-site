@@ -55,3 +55,11 @@ draft: false
 - [[courses/computer-networks/lectures/43-diahnostyka-ta-usunennia-nespravnostei|Лекція 43. Діагностика та усунення несправностей]]
 - [[courses/computer-networks/lectures/44-ekonomika-merezhi|Лекція 44. Економіка мережі]]
 - [[courses/computer-networks/lectures/45-proiektuvannia-merezhi-pidpryiemstva|Лекція 45. Проєктування мережі підприємства]]
+
+## Лабораторні роботи
+
+- [[courses/computer-networks/labs/01-obtysnennia-kabeliu-ta-montazh-sks|Лабораторна робота 1. Обтиснення кабелю та монтаж СКС]]
+
+## Практичні роботи
+
+- [[courses/computer-networks/practicals/01-rozrakhunok-adresnoho-prostoru|Практична робота 1. Розрахунок адресного простору]]
