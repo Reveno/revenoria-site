@@ -63,3 +63,12 @@ draft: false
 ## Практичні роботи
 
 - [[courses/computer-networks/practicals/01-rozrakhunok-adresnoho-prostoru|Практична робота 1. Розрахунок адресного простору]]
+
+## Глосарій
+
+- [[courses/computer-networks/glossary/cidr|CIDR]]
+- [[courses/computer-networks/glossary/patch-panel|Патч-панель]]
+- [[courses/computer-networks/glossary/pidmerezha|Підмережа]]
+- [[courses/computer-networks/glossary/sks|СКС]]
+- [[courses/computer-networks/glossary/vlsm|VLSM]]
+- [[courses/computer-networks/glossary/vyta-para|Вита пара]]
