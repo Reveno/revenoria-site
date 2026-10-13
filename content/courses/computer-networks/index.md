@@ -59,10 +59,14 @@ draft: false
 ## Лабораторні роботи
 
 - [[courses/computer-networks/labs/01-obtysnennia-kabeliu-ta-montazh-sks|Лабораторна робота 1. Обтиснення кабелю та монтаж СКС]]
+- [[courses/computer-networks/labs/02-nalashtuvannia-komutatora|Лабораторна робота 2. Налаштування комутатора]]
+- [[courses/computer-networks/labs/03-vlan-mizh-komutatoramy|Лабораторна робота 3. VLAN між комутаторами]]
 
 ## Практичні роботи
 
 - [[courses/computer-networks/practicals/01-rozrakhunok-adresnoho-prostoru|Практична робота 1. Розрахунок адресного простору]]
+- [[courses/computer-networks/practicals/02-proiektuvannia-topolohii|Практична робота 2. Проєктування топології]]
+- [[courses/computer-networks/practicals/03-packet-tracer-bazova-konfihuratsiia|Практична робота 3. Packet Tracer: базова конфігурація]]
 
 ## Глосарій
 
