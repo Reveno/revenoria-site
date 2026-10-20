@@ -26,6 +26,7 @@ draft: false
 ## Завдання на парі
 
 - [[courses/operating-systems/classwork/01-protsesy-potoky-ta-priorytety-u-windows|Завдання на парі 1. Процеси, потоки та пріоритети у Windows]]
+- [[courses/operating-systems/classwork/02-pamiat-protsesu-u-windows|Завдання на парі 2. Пам'ять процесу у Windows]]
 
 ## Лабораторні роботи
 
