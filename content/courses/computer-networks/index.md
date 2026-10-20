@@ -59,6 +59,7 @@ draft: false
 ## Завдання на парі
 
 - [[courses/computer-networks/classwork/01-analiz-merezhevoho-trafiku-u-wireshark|Завдання на парі 1. Аналіз мережевого трафіку у Wireshark]]
+- [[courses/computer-networks/classwork/02-merezha-kompiutera-zseredyny-zasobamy-windows|Завдання на парі 2. Мережа комп'ютера зсередини засобами Windows]]
 
 ## Лабораторні роботи
 
