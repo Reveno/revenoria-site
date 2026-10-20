@@ -56,6 +56,10 @@ draft: false
 - [[courses/computer-networks/lectures/44-ekonomika-merezhi|Лекція 44. Економіка мережі]]
 - [[courses/computer-networks/lectures/45-proiektuvannia-merezhi-pidpryiemstva|Лекція 45. Проєктування мережі підприємства]]
 
+## Завдання на парі
+
+- [[courses/computer-networks/classwork/01-analiz-merezhevoho-trafiku-u-wireshark|Завдання на парі 1. Аналіз мережевого трафіку у Wireshark]]
+
 ## Лабораторні роботи
 
 - [[courses/computer-networks/labs/01-obtysnennia-kabeliu-ta-montazh-sks|Лабораторна робота 1. Обтиснення кабелю та монтаж СКС]]
@@ -66,7 +70,7 @@ draft: false
 
 - [[courses/computer-networks/practicals/01-rozrakhunok-adresnoho-prostoru|Практична робота 1. Розрахунок адресного простору]]
 - [[courses/computer-networks/practicals/02-proiektuvannia-topolohii|Практична робота 2. Проєктування топології]]
-- [[courses/computer-networks/practicals/03-packet-tracer-bazova-konfihuratsiia|Практична робота 3. Packet Tracer: базова конфігурація]]
+- [[courses/computer-networks/practicals/03-packet-tracer-bazova-konfihuratsiia|Практична робота 3. Packet Tracer базова конфігурація]]
 
 ## Глосарій
 

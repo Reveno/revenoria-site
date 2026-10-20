@@ -25,6 +25,25 @@ draft: false
 - [[courses/web-programming/lectures/13-rozrobka-za-dopomohoiu-shtuchnoho-intelektu|Лекція 13. Розробка за допомогою штучного інтелекту]]
 - [[courses/web-programming/lectures/14-git-ci-cd-deploi-ta-ekonomika-vebrozrobky|Лекція 14. Git, CI-CD, деплой та економіка веброзробки]]
 
+## Лабораторні роботи
+
+- [[courses/web-programming/labs/01-verstannia-adaptyvnoi-storinky-zasobamy-html|Лабораторна робота 1. Верстання адаптивної сторінки засобами HTML і CSS]]
+- [[courses/web-programming/labs/02-robota-z-masyvamy-obiektamy-ta-moduliamy|Лабораторна робота 2. Робота з масивами, об'єктами та модулями JavaScript]]
+- [[courses/web-programming/labs/03-typizatsiia-danykh-i-funktsii-zasobamy|Лабораторна робота 3. Типізація даних і функцій засобами TypeScript]]
+- [[courses/web-programming/labs/04-stvorennia-komponentnoho-interfeisu-na-react|Лабораторна робота 4. Створення компонентного інтерфейсу на React]]
+- [[courses/web-programming/labs/05-marshrutyzatsiia-ta-formy-v-odnostorinkovomu|Лабораторна робота 5. Маршрутизація та форми в односторінковому застосунку]]
+- [[courses/web-programming/labs/06-robota-z-bazoiu-danykh-cherez-orm|Лабораторна робота 6. Робота з базою даних через ORM]]
+- [[courses/web-programming/labs/07-avtentyfikatsiia-korystuvachiv-za-tokenamy-jwt|Лабораторна робота 7. Автентифікація користувачів за токенами JWT]]
+
+## Практичні роботи
+
+- [[courses/web-programming/practicals/01-obrobka-podii-ta-asynkhronni-zapyty-do|Практична робота 1. Обробка подій та асинхронні запити до зовнішнього API]]
+- [[courses/web-programming/practicals/02-keruvannia-stanom-zastosunku-za-dopomohoiu|Практична робота 2. Керування станом застосунку за допомогою хуків]]
+- [[courses/web-programming/practicals/03-vlasne-promizhne-prohramne-zabezpechennia-ta|Практична робота 3. Власне проміжне програмне забезпечення та обробник помилок]]
+- [[courses/web-programming/practicals/04-proiektuvannia-ta-dokumentuvannia-rest-api|Практична робота 4. Проєктування та документування REST API]]
+- [[courses/web-programming/practicals/05-instrumenty-shtuchnoho-intelektu-dlia|Практична робота 5. Інструменти штучного інтелекту для генерації та рефакторингу коду]]
+- [[courses/web-programming/practicals/06-konveier-bezperervnoi-intehratsii-ta|Практична робота 6. Конвеєр безперервної інтеграції та розгортання]]
+
 ## Глосарій
 
 - [[courses/web-programming/glossary/ci-cd|CI-CD]]
