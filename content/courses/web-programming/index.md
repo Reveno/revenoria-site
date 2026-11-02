@@ -34,6 +34,9 @@ draft: false
 - [[courses/web-programming/labs/05-marshrutyzatsiia-ta-formy-v-odnostorinkovomu|Лабораторна робота 5. Маршрутизація та форми в односторінковому застосунку]]
 - [[courses/web-programming/labs/06-robota-z-bazoiu-danykh-cherez-orm|Лабораторна робота 6. Робота з базою даних через ORM]]
 - [[courses/web-programming/labs/07-avtentyfikatsiia-korystuvachiv-za-tokenamy-jwt|Лабораторна робота 7. Автентифікація користувачів за токенами JWT]]
+- [[courses/web-programming/labs/08-avtomatychne-testuvannia-kodu-javascript-dopomohoiu-vitest|Лабораторна робота 8. Автоматичне тестування коду JavaScript за допомогою Vitest]]
+- [[courses/web-programming/labs/09-konteineryzatsiia-vebzastosunku-dopomohoiu-docker|Лабораторна робота 9. Контейнеризація вебзастосунку за допомогою Docker]]
+- [[courses/web-programming/labs/10-obmin-povidomlenniamy-realnomu-chasi-chat-websocket|Лабораторна робота 10. Обмін повідомленнями в реальному часі: чат на WebSocket]]
 
 ## Практичні роботи
 
@@ -43,6 +46,8 @@ draft: false
 - [[courses/web-programming/practicals/04-proiektuvannia-ta-dokumentuvannia-rest-api|Практична робота 4. Проєктування та документування REST API]]
 - [[courses/web-programming/practicals/05-instrumenty-shtuchnoho-intelektu-dlia|Практична робота 5. Інструменти штучного інтелекту для генерації та рефакторингу коду]]
 - [[courses/web-programming/practicals/06-konveier-bezperervnoi-intehratsii-ta|Практична робота 6. Конвеєр безперервної інтеграції та розгортання]]
+- [[courses/web-programming/practicals/07-dostupnist-vebstorinok-semantyka-klaviatura-kontrast|Практична робота 7. Доступність вебсторінок: семантика, клавіатура та контраст]]
+- [[courses/web-programming/practicals/08-produktyvnist-vebstorinok-lighthouse-core-web-vitals|Практична робота 8. Продуктивність вебсторінок: Lighthouse та Core Web Vitals]]
 
 ## Глосарій
 
