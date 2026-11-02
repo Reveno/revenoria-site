@@ -47,3 +47,26 @@ draft: false
 ## Завдання
 
 - [[courses/computer-architecture/assignments/zavdannia-na-paperi-vstupni-lektsii|Завдання на папері - Вступні лекції]]
+
+## Лабораторні роботи
+
+- [[courses/computer-architecture/labs/01-lohichni-elementy-v-simuliatori-circuitverse|Лабораторна робота 1. Логічні елементи в симуляторі CircuitVerse]]
+- [[courses/computer-architecture/labs/02-analiz-i-minimizatsiia-skhem-u-logisim-evolution|Лабораторна робота 2. Аналіз і мінімізація схем у Logisim-evolution]]
+- [[courses/computer-architecture/labs/03-sumator-vidnimach-i-multypleksor|Лабораторна робота 3. Суматор, віднімач і мультиплексор]]
+- [[courses/computer-architecture/labs/04-tryhery-ta-lichylnyky|Лабораторна робота 4. Тригери та лічильники]]
+- [[courses/computer-architecture/labs/05-zsuvnyi-rehistr-i-opys-skhemy-movoiu-verilog|Лабораторна робота 5. Зсувний регістр і опис схеми мовою Verilog]]
+- [[courses/computer-architecture/labs/06-model-fon-neimana-prohramuvannia-v-little-man-computer|Лабораторна робота 6. Модель фон Неймана: програмування в Little Man Computer]]
+- [[courses/computer-architecture/labs/07-model-kesh-pamiati-na-python|Лабораторна робота 7. Модель кеш-пам'яті на Python]]
+- [[courses/computer-architecture/labs/08-arduino-uno-u-symuliatori-wokwi|Лабораторна робота 8. Arduino Uno у симуляторі Wokwi: цифрові входи, виходи та зсувний регістр]]
+- [[courses/computer-architecture/labs/09-raspberry-pi-pico-u-symuliatori-wokwi|Лабораторна робота 9. Raspberry Pi Pico у симуляторі Wokwi: GPIO та ШІМ мовою MicroPython]]
+
+## Практичні роботи
+
+- [[courses/computer-architecture/practicals/01-systemy-chyslennia-ta-dvijkova-arytmetyka|Практична робота 1. Системи числення та двійкова арифметика]]
+- [[courses/computer-architecture/practicals/02-alhebra-lohiky-tablytsi-istynnosti-ta-sprostshennia|Практична робота 2. Алгебра логіки: таблиці істинності та спрощення виразів]]
+- [[courses/computer-architecture/practicals/03-minimizatsiia-kartamy-karno|Практична робота 3. Мінімізація картами Карно]]
+- [[courses/computer-architecture/practicals/04-sumatory-deshyfratory-ta-multypleksory|Практична робота 4. Суматори, дешифратори та мультиплексори: розрахунок схем]]
+- [[courses/computer-architecture/practicals/05-tryhery-rehistry-ta-lichylnyky-chasovi-diahramy|Практична робота 5. Тригери, регістри та лічильники: часові діаграми]]
+- [[courses/computer-architecture/practicals/06-produktyvnist-protsesora-cpi-zakon-amdala-konveier|Практична робота 6. Продуктивність процесора: CPI, закон Амдала, конвеєр]]
+- [[courses/computer-architecture/practicals/07-iierarkhiia-pamiati-amat-ta-vidobrazhennia-kesha|Практична робота 7. Ієрархія пам'яті: середній час доступу та відображення кеша]]
+- [[courses/computer-architecture/practicals/08-systemna-shyna-vvedennia-vyvedennia-ta-pererivannia|Практична робота 8. Системна шина, введення-виведення та переривання: розрахунки]]
