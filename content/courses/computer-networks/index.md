@@ -61,14 +61,55 @@ draft: false
 - [[courses/computer-networks/classwork/01-analiz-merezhevoho-trafiku-u-wireshark|Завдання на парі 1. Аналіз мережевого трафіку у Wireshark]]
 - [[courses/computer-networks/classwork/02-merezha-kompiutera-zseredyny-zasobamy-windows|Завдання на парі 2. Мережа комп'ютера зсередини засобами Windows]]
 
+
+
 ## Лабораторні роботи
+
+- [[courses/computer-networks/labs/01-doslidzhennia-kharakterystyk-seredovyshch-peredavannia-danykh|Лабораторна робота 1. Дослідження характеристик середовищ передавання даних]]
+- [[courses/computer-networks/labs/02-vyvchennia-merezhevoho-obladnannia-ioho-interfeisiv|Лабораторна робота 2. Вивчення мережевого обладнання та його інтерфейсів]]
+- [[courses/computer-networks/labs/03-pobudova-testuvannia-lokalnoi-merezhi-ethernet|Лабораторна робота 3. Побудова та тестування локальної мережі Ethernet]]
+- [[courses/computer-networks/labs/04-nalashtuvannia-vlan-trankovykh-iednan-komutatorakh|Лабораторна робота 4. Налаштування VLAN і транкових з'єднань на комутаторах]]
+- [[courses/computer-networks/labs/05-nalashtuvannia-protokolu-stp-ahrehatsii-kanaliv|Лабораторна робота 5. Налаштування протоколу STP та агрегації каналів]]
+- [[courses/computer-networks/labs/06-rozhortannia-nalashtuvannia-bezdrotovoi-tochky-dostupu|Лабораторна робота 6. Розгортання та налаштування бездротової точки доступу]]
+- [[courses/computer-networks/labs/07-doslidzhennia-vstanovlennia-rozryvannia-iednannia-tcp|Лабораторна робота 7. Дослідження встановлення й розривання з'єднання TCP]]
+- [[courses/computer-networks/labs/08-nalashtuvannia-adresatsii-ipv4-perevirka-zv-iaznosti-pidmerezh|Лабораторна робота 8. Налаштування адресації IPv4 та перевірка зв'язності підмереж]]
+- [[courses/computer-networks/labs/09-nalashtuvannia-podviinoho-steka-ipv4-ipv6|Лабораторна робота 9. Налаштування подвійного стека IPv4/IPv6]]
+- [[courses/computer-networks/labs/10-nalashtuvannia-interfeisiv-marshrutyzatora-bazovoi-bezpeky-prystroiu|Лабораторна робота 10. Налаштування інтерфейсів маршрутизатора та базової безпеки пристрою]]
+- [[courses/computer-networks/labs/11-rozhortannia-sluzhby-dhcp-transliatsii-adres-nat-pat|Лабораторна робота 11. Розгортання служби DHCP та трансляції адрес NAT/PAT]]
+- [[courses/computer-networks/labs/12-nalashtuvannia-statychnykh-marshrutiv-marshrutu-zamovchuvanniam|Лабораторна робота 12. Налаштування статичних маршрутів і маршруту за замовчуванням]]
+- [[courses/computer-networks/labs/13-nalashtuvannia-bahatozonnoho-ospf-analiz-tablytsi-marshrutyzatsii|Лабораторна робота 13. Налаштування багатозонного OSPF та аналіз таблиці маршрутизації]]
+- [[courses/computer-networks/labs/14-rozhortannia-tuneliu-wireguard-dvoma-vuzlamy|Лабораторна робота 14. Розгортання тунелю WireGuard між двома вузлами]]
+- [[courses/computer-networks/labs/15-rozhortannia-virtualnoi-merezhi-khmarnomu-seredovyshchi|Лабораторна робота 15. Розгортання віртуальної мережі у хмарному середовищі]]
+- [[courses/computer-networks/labs/16-pobudova-merezhi-konteineriv-publikatsiia-sluzhb|Лабораторна робота 16. Побудова мережі контейнерів та публікація служб]]
+- [[courses/computer-networks/labs/17-nalashtuvannia-marshrutyzatsii-faiervola-linux|Лабораторна робота 17. Налаштування маршрутизації та фаєрвола в Linux]]
+- [[courses/computer-networks/labs/18-rozhortannia-kontrolera-domenu-pidkliuchennia-robochoi-stantsii|Лабораторна робота 18. Розгортання контролера домену та підключення робочої станції]]
+
+## Практичні роботи
+
+- [[courses/computer-networks/practicals/01-klasyfikatsiia-merezh-pobudova-topolohii-seredovyshchi-cisco-packet|Практична робота 1. Класифікація мереж і побудова топології у середовищі Cisco Packet Tracer]]
+- [[courses/computer-networks/practicals/02-analiz-inkapsuliatsii-danykh-rivniamy-modelei-osi-tcp|Практична робота 2. Аналіз інкапсуляції даних за рівнями моделей OSI та TCP/IP]]
+- [[courses/computer-networks/practicals/03-rozrakhunok-parametriv-sehmenta-ethernet-obtysnennia-kabeliu-vyta|Практична робота 3. Розрахунок параметрів сегмента Ethernet та обтиснення кабелю «вита пара»]]
+- [[courses/computer-networks/practicals/04-planuvannia-rozpodil-virtualnykh-lokalnykh-merezh-pidpryiemstva|Практична робота 4. Планування та розподіл віртуальних локальних мереж підприємства]]
+- [[courses/computer-networks/practicals/05-nalashtuvannia-priorytezatsii-trafiku-qos-holosovykh-videopotokiv|Практична робота 5. Налаштування пріоритезації трафіку QoS для голосових і відеопотоків]]
+- [[courses/computer-networks/practicals/06-planuvannia-radiopokryttia-vybir-kanaliv-bezdrotovoi-merezhi|Практична робота 6. Планування радіопокриття та вибір каналів бездротової мережі]]
+- [[courses/computer-networks/practicals/07-analiz-zaholovkiv-ip-povidomlen-icmp-wireshark|Практична робота 7. Аналіз заголовків IP та повідомлень ICMP у Wireshark]]
+- [[courses/computer-networks/practicals/08-podil-merezhi-pidmerezhi-metodom-vlsm|Практична робота 8. Поділ мережі на підмережі методом VLSM]]
+- [[courses/computer-networks/practicals/09-planuvannia-adresnoho-prostoru-ipv6-orhanizatsii|Практична робота 9. Планування адресного простору IPv6 для організації]]
+- [[courses/computer-networks/practicals/10-pochatkove-nalashtuvannia-marshrutyzatora-zberezhennia-konfihuratsii|Практична робота 10. Початкове налаштування маршрутизатора та збереження конфігурації]]
+- [[courses/computer-networks/practicals/11-skladannia-perevirka-spyskiv-kontroliu-dostupu|Практична робота 11. Складання та перевірка списків контролю доступу]]
+- [[courses/computer-networks/practicals/12-nalashtuvannia-perevirka-odnozonnoho-ospf|Практична робота 12. Налаштування та перевірка однозонного OSPF]]
+- [[courses/computer-networks/practicals/13-analiz-roboty-sluzhby-dns-prykladnykh-protokoliv|Практична робота 13. Аналіз роботи служби DNS та прикладних протоколів]]
+- [[courses/computer-networks/practicals/14-porivniannia-tekhnolohii-dostupu-hlobalnykh-merezh-osnovy-bgp|Практична робота 14. Порівняння технологій доступу до глобальних мереж та основи BGP]]
+- [[courses/computer-networks/practicals/15-proiektuvannia-zakhyshchenoho-kanalu-filiiamy-orhanizatsii|Практична робота 15. Проєктування захищеного каналу між філіями організації]]
+- [[courses/computer-networks/practicals/16-balansuvannia-navantazhennia-kilkoma-serveramy-zastosunku|Практична робота 16. Балансування навантаження між кількома серверами застосунку]]
+- [[courses/computer-networks/practicals/17-planuvannia-rolei-sluzhb-servera-merezhi-pidpryiemstva|Практична робота 17. Планування ролей і служб сервера для мережі підприємства]]
+- [[courses/computer-networks/practicals/18-planuvannia-struktury-sluzhby-katalohiv-orhanizatsii|Практична робота 18. Планування структури служби каталогів організації]]
+
+## Додаткові роботи (попередня редакція)
 
 - [[courses/computer-networks/labs/01-obtysnennia-kabeliu-ta-montazh-sks|Лабораторна робота 1. Обтиснення кабелю та монтаж СКС]]
 - [[courses/computer-networks/labs/02-nalashtuvannia-komutatora|Лабораторна робота 2. Налаштування комутатора]]
 - [[courses/computer-networks/labs/03-vlan-mizh-komutatoramy|Лабораторна робота 3. VLAN між комутаторами]]
-
-## Практичні роботи
-
 - [[courses/computer-networks/practicals/01-rozrakhunok-adresnoho-prostoru|Практична робота 1. Розрахунок адресного простору]]
 - [[courses/computer-networks/practicals/02-proiektuvannia-topolohii|Практична робота 2. Проєктування топології]]
 - [[courses/computer-networks/practicals/03-packet-tracer-bazova-konfihuratsiia|Практична робота 3. Packet Tracer базова конфігурація]]
