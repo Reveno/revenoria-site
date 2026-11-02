@@ -63,6 +63,9 @@ draft: false
 
 
 
+
+
+
 ## Лабораторні роботи
 
 - [[courses/computer-networks/labs/01-doslidzhennia-kharakterystyk-seredovyshch-peredavannia-danykh|Лабораторна робота 1. Дослідження характеристик середовищ передавання даних]]
@@ -83,6 +86,16 @@ draft: false
 - [[courses/computer-networks/labs/16-pobudova-merezhi-konteineriv-publikatsiia-sluzhb|Лабораторна робота 16. Побудова мережі контейнерів та публікація служб]]
 - [[courses/computer-networks/labs/17-nalashtuvannia-marshrutyzatsii-faiervola-linux|Лабораторна робота 17. Налаштування маршрутизації та фаєрвола в Linux]]
 - [[courses/computer-networks/labs/18-rozhortannia-kontrolera-domenu-pidkliuchennia-robochoi-stantsii|Лабораторна робота 18. Розгортання контролера домену та підключення робочої станції]]
+- [[courses/computer-networks/labs/19-pochatkove-nalashtuvannia-komutatora-zakhyshchenyi-dostup-ssh|Лабораторна робота 19. Початкове налаштування комутатора та захищений доступ SSH]]
+- [[courses/computer-networks/labs/20-zakhyst-portiv-komutatora-funktsiieiu-port-security|Лабораторна робота 20. Захист портів комутатора функцією Port Security]]
+- [[courses/computer-networks/labs/21-marshrutyzatsiia-vlan-komutatori-tretoho-rivnia|Лабораторна робота 21. Маршрутизація між VLAN на комутаторі третього рівня]]
+- [[courses/computer-networks/labs/22-tsentralizovanyi-dhcp-kilkokh-vlan-dhcp-relay|Лабораторна робота 22. Централізований DHCP для кількох VLAN (DHCP relay)]]
+- [[courses/computer-networks/labs/23-rezervuvannia-shliuzu-zamovchuvanniam-dopomohoiu-hsrp|Лабораторна робота 23. Резервування шлюзу за замовчуванням за допомогою HSRP]]
+- [[courses/computer-networks/labs/24-dynamichna-marshrutyzatsiia-eigrp|Лабораторна робота 24. Динамічна маршрутизація EIGRP]]
+- [[courses/computer-networks/labs/25-imenovani-spysky-dostupu-demilitaryzovana-zona|Лабораторна робота 25. Іменовані списки доступу й демілітаризована зона]]
+- [[courses/computer-networks/labs/26-statychnyi-dynamichnyi-nat-publikatsiia-servera|Лабораторна робота 26. Статичний і динамічний NAT та публікація сервера]]
+- [[courses/computer-networks/labs/27-zakhyshchenyi-kanal-filiiamy-ipsec-site-to-site|Лабораторна робота 27. Захищений канал між філіями: IPsec site-to-site на маршрутизаторах]]
+- [[courses/computer-networks/labs/28-kompleksnyi-proiekt-merezha-koledzhu-packet-tracer|Лабораторна робота 28. Комплексний проєкт: мережа коледжу в Packet Tracer]]
 
 ## Практичні роботи
 
@@ -104,15 +117,6 @@ draft: false
 - [[courses/computer-networks/practicals/16-balansuvannia-navantazhennia-kilkoma-serveramy-zastosunku|Практична робота 16. Балансування навантаження між кількома серверами застосунку]]
 - [[courses/computer-networks/practicals/17-planuvannia-rolei-sluzhb-servera-merezhi-pidpryiemstva|Практична робота 17. Планування ролей і служб сервера для мережі підприємства]]
 - [[courses/computer-networks/practicals/18-planuvannia-struktury-sluzhby-katalohiv-orhanizatsii|Практична робота 18. Планування структури служби каталогів організації]]
-
-## Додаткові роботи (попередня редакція)
-
-- [[courses/computer-networks/labs/01-obtysnennia-kabeliu-ta-montazh-sks|Лабораторна робота 1. Обтиснення кабелю та монтаж СКС]]
-- [[courses/computer-networks/labs/02-nalashtuvannia-komutatora|Лабораторна робота 2. Налаштування комутатора]]
-- [[courses/computer-networks/labs/03-vlan-mizh-komutatoramy|Лабораторна робота 3. VLAN між комутаторами]]
-- [[courses/computer-networks/practicals/01-rozrakhunok-adresnoho-prostoru|Практична робота 1. Розрахунок адресного простору]]
-- [[courses/computer-networks/practicals/02-proiektuvannia-topolohii|Практична робота 2. Проєктування топології]]
-- [[courses/computer-networks/practicals/03-packet-tracer-bazova-konfihuratsiia|Практична робота 3. Packet Tracer базова конфігурація]]
 
 ## Глосарій
 
